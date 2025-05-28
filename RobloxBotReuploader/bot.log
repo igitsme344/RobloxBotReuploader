@@ -1,0 +1,44 @@
+2025-05-28 21:55:52,378 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-28 21:55:52,379 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-28 21:55:52,379 - __main__ - ERROR - DISCORD_TOKEN environment variable not set!
+2025-05-28 21:55:52,379 - __main__ - ERROR - DISCORD_TOKEN environment variable not set!
+2025-05-28 22:00:21,204 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-28 22:00:21,205 - discord.client - INFO - logging in using static token
+2025-05-28 22:00:21,402 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-28 22:00:21,403 - discord.client - INFO - logging in using static token
+2025-05-28 22:00:21,741 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-28 22:00:21,755 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f21b7550fa0>, 1942.368368601)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f21b736f650>
+2025-05-28 22:00:22,369 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-28 22:00:22,380 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f43fa864fa0>, 1942.92620792)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f43fb265450>
+2025-05-28 22:00:31,254 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-28 22:00:31,255 - discord.client - INFO - logging in using static token
+2025-05-28 22:00:32,055 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-28 22:00:32,067 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7fb9cf430fa0>, 1952.47289601)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7fb9cf251150>
+2025-05-28 22:00:55,147 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-28 22:00:55,148 - discord.client - INFO - logging in using static token
+2025-05-28 22:00:55,957 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-28 22:00:55,973 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f021cfd4fa0>, 1976.571223059)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f021cdef750>
+2025-05-28 22:01:00,034 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-28 22:01:00,035 - discord.client - INFO - logging in using static token
+2025-05-28 22:01:00,906 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-28 22:01:00,924 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7fe22d8e4fa0>, 1981.469535924)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7fe22d6ff790>
+2025-05-28 22:09:46,209 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-28 22:09:46,211 - discord.client - INFO - logging in using static token
+2025-05-28 22:09:46,762 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fcc23c463ef8132f7b243baabf81eb27).
+2025-05-28 22:09:48,766 - __main__ - INFO - Nexus bot#7143 has connected to Discord!
+2025-05-28 22:09:48,766 - __main__ - INFO - Bot is in 0 guilds
+2025-05-28 22:19:49,375 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-28 22:19:49,376 - discord.client - INFO - logging in using static token
+2025-05-28 22:19:50,133 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d41f04c3c6b515ea0322c1932dfadd8d).
+2025-05-28 22:19:52,136 - __main__ - INFO - Nexus bot#7143 has connected to Discord!
+2025-05-28 22:19:52,138 - __main__ - INFO - Bot is in 0 guilds
